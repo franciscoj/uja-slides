@@ -1,5 +1,17 @@
-/* custom styles can go here */
-
-#chapter-foo p {
-	text-transform: uppercase;
+/* Images without borders or shadows or stuff */
+.reveal section img {
+  border: none;
+  box-shadow: none;
+  background: none;
 }
+
+/* For inline code */
+.reveal section code:not(.hljs) {
+  background-color: #ccc;
+  color: #fff;
+}
+
+/* Specific images can be stiled with the alt attr */
+/* img[alt=logo] { */
+/*   height: 200px; */
+/* } */
