@@ -12,6 +12,14 @@
 }
 
 /* Specific images can be stiled with the alt attr */
-/* img[alt=logo] { */
-/*   height: 200px; */
-/* } */
+img[alt=logo-twitter] {
+  height: 40px;
+}
+
+img[alt=logo-github] {
+  height: 40px;
+}
+
+img[alt=logo-gmail] {
+  height: 40px;
+}
