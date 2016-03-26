@@ -1,0 +1,12 @@
+{
+  "name": "web-dev-cloud",
+  "version": "1.0.0",
+  "description": "Desarrollo en la nube. Servicios web",
+  "scripts": {
+    "start": "prez --serve --highlight-theme=solarized_dark --watch"
+  },
+  "author": "Fran Casas <nflamel@gmail.com> (http://github.com/franciscoj)",
+  "devDependencies": {
+    "prez": "^4.7.0"
+  }
+}
