@@ -1,6 +1,8 @@
 $background:images/lego.jpg$
 $transition:zoom$
 
+# LEGO
+
 Note:
 
 * Ingenieros
