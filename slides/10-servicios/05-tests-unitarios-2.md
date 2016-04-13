@@ -1,5 +1,9 @@
+### Tests unitarios (2)
+```sh
+$ ruby car_test.rb
 ```
-~ Code$ ruby car_test.rb
+
+```
 # Running:
 .
 Finished in 0.5s
@@ -8,7 +12,6 @@ Finished in 0.5s
 ```
 
 ```
-~ Code$ ruby car_test.rb
 # Running:
 F
 Finished in 0.5s

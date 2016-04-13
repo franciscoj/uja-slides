@@ -1,4 +1,4 @@
-### Tests unitarios
+### Codigo
 
 ```ruby
 class Car
@@ -8,14 +8,6 @@ class Car
 
     def get_color
         @color
-    end
-end
-```
-
-```ruby
-describe Car
-    it 'is red' do
-        expect(Car.new.get_color).to eq('red')
     end
 end
 ```
