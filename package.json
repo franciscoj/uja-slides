@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Desarrollo en la nube. Servicios web",
   "scripts": {
-    "start": "prez --serve --highlight-theme=solarized_dark --watch"
+    "start": "prez --serve --highlight-theme=github --theme=beige --watch",
+    "present": "prez --serve --highlight-theme=github --theme=beige --such-notes",
+    "pdf": "prez --serve --print --print-theme=beige --no-open-browser"
   },
   "author": "Fran Casas <nflamel@gmail.com> (http://github.com/franciscoj)",
   "devDependencies": {

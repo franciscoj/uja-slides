@@ -23,3 +23,51 @@ img[alt=logo-github] {
 img[alt=logo-gmail] {
   height: 40px;
 }
+
+img[alt=rb-android] {
+  height: 500px;
+}
+
+img[alt=rb-ios] {
+  height: 500px;
+}
+
+img[alt=ruby-logo], img[alt=js-logo]{
+  height: 300px;
+}
+
+img[alt=mysql-logo],
+img[alt=rails-logo] {
+  width: 300px;
+}
+
+img[alt=marionette-logo],
+img[alt=backbone-logo],
+img[alt=react-logo],
+img[alt=elasticsearch-logo],
+img[alt=redis-logo]{
+  height: 200px;
+}
+
+img[alt=client-server] {
+  width: 500px;
+}
+
+img[alt=alone-centered] {
+  padding-top: 20%;
+}
+
+/* Two Panes */
+.two-panes {
+  display: flex;
+}
+
+.two-panes div {
+  flex: 1;
+}
+
+.two-panes .two-panes__big-pane {
+  flex: 2.5;
+  text-align: left;
+  padding: 20px;
+}
